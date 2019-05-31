@@ -1,0 +1,44 @@
+{
+  "title": {
+    "en": "A test for a student",
+    "it": "Un test per gli studenti"
+  },
+  "questions": [
+    {
+      "question": "Cosa l'html non &egrave;?",
+      "answers": [
+        {
+          "answer": "un linguaggi di descrizione pagine",
+          "score": 0
+        },
+        {
+          "answer": "un linguaggio di programmazione",
+          "score": 1
+        },
+        {
+          "answer": "il linguaggio utilazzato per descrivere ipertesti",
+          "score": 0
+        }
+        ]
+    },
+    {
+      "question": "Altra domanda",
+      "answers": [
+        {
+          "answer": "possibile risposta",
+          "score": 1
+        },
+        {
+          "answer": "possibile altra risposta",
+          "score": 2
+        }
+      ]
+    }
+  ],
+  "scores": [
+    {"min": 0, "max": 12.5, "message": "devi studiare di piu"},
+    {"min": 12.5, "max": 50, "message": "Ripassa un po"},
+    {"min":  50, "max": 70, "message": "Puoi andare meglio"},
+    {"min": 70, "max": 100, "message": "Ottimo 6 un campione"}
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": {
+    "en": "A test for a student",
+    "it": "Un test per gli studenti"
+  },
+  "questions": [
+    {
+      "text": "Con il termine mobile computing si riferisce a",
+      "course": "01240002",
+      "answers": [
+        {
+          "text": "I dispositivi embedded e l&rsquo;infrastruttura tecnologica necessaria alle comunicazioni.",
+          "score": 0
+        },
+        {
+          "text": "L&rsquo;insieme delle operazioni computazionali eseguibili su dispositivi senza vincoli di posizione fisica.",
+          "score": 1
+        },
+        {
+          "text": "I dispositivi mobili e le relative tecnologie.",
+          "score": 0
+        },
+        {
+          "text": "La programmazione dei dispositivi mobili.",
+          "score": 0
+        }
+        ]
+    },
+    {
+      "text": "L&rsquo;obiettivo del mobile computing &egrave;:",
+      "course": "01240002",
+      "answers": [
+        {
+          "text": "Consentire agli utenti di operare anche in ambiente fisicamente non connesso.",
+          "score": 1
+        },
+        {
+          "text": "Consentire agli utenti di operare in ambiente fisicamente connesso.",
+          "score": 0
+        },
+        {
+          "text": "Consentire la comunicazione fra diversi dispositivi.",
+          "score": 0
+        },
+        {
+          "text": "Consentire la comunicazione tra dispositivi mobili.",
+          "score": 0
+        }
+        ]
+    }
+  ],
+  "scores": [
+    {"min": 0, "max": 12.5, "message": "devi studiare di piu"},
+    {"min": 12.5, "max": 50, "message": "Ripassa un po"},
+    {"min":  50, "max": 70, "message": "Puoi andare meglio"},
+    {"min": 70, "max": 100, "message": "Ottimo 6 un campione"}
+  ]
+}
